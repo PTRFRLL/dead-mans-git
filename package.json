@@ -1,0 +1,20 @@
+{
+  "name": "dead-mans-git",
+  "version": "1.0.0",
+  "description": "> A git powered dead mans switch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PTRFRLL/dead-mans-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PTRFRLL/dead-mans-git/issues"
+  },
+  "homepage": "https://github.com/PTRFRLL/dead-mans-git#readme"
+}
